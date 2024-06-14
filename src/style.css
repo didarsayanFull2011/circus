@@ -1,0 +1,11 @@
+body{
+  background-color:#7573D9
+}
+h1,h2,ul{
+  text-align:center;
+  color:#B62E40;
+}
+.img{
+  display:flex;
+  justify-content:center;
+}
